@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Apartment Alerter",
+  "description": "Set your rental criteria and get instantly notified of new apartment and building listings from various platforms. This app simulates a real-time feed of the latest properties on the market, helping you be the first to know.",
+  "requestFramePermissions": []
+}
